@@ -14,5 +14,8 @@ git流程：
            ⑥点击图标，红框到绿框
            ⑦填写备注，commit
            ⑧push,等待success
-远程到本地：①
+远程到本地：①修改仓库内容
+           ②在本地仓库右击选中gui
+           ③remmot
+           ④local merge
                    
